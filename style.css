@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue; /* ページの背景色を水色にする */
+    color: darkblue; /* ページ全体の文字色を濃い青にする */
+    font-family: sans-serif; /* 文字のフォントをシンプルなものにする */
+}
+
+h1 {
+    color: navy; /* 見出し1の文字色を紺色にする */
+    text-align: center; /* 見出し1を中央揃えにする */
+}
+
+p {
+    text-align: center; /* 段落を中央揃えにする */
+    font-size: 18px; /* 段落の文字サイズを少し大きくする */
+}
